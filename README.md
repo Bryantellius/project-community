@@ -1,14 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Project Community
+
+A trivia quiz application for fun community with family and friends.
+
+> This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
-First, run the development server:
+Fork and clone the project from [Github]()
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Install the project dependencies with `npm install` (or if you use yarn: `yarn install`)
+
+Run the development server with `npm run dev` (or if you use yarn: `yarn dev`)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
@@ -18,17 +20,15 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
+## Documentation
 
-To learn more about Next.js, take a look at the following resources:
+To learn more about the technologies used to create this application, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Next.js Documentation](https://nextjs.org/docs)
+- [Tailwindcss Documentation](https://tailwindcss.com/docs/guides/nextjs)
+- [Socket.io Documentation](https://socket.io/docs/v3)
+- [The Trivia API](https://the-trivia-api.com/)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Contributions
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+⚠️ TODO
